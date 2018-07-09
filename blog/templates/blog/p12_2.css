@@ -1,0 +1,32 @@
+#title{
+  color: #0000FF;
+  font-size: 50px;
+  font-style: italic;
+}
+#top-menu{
+  width:530px;
+  padding:0;
+  margin:0;
+  list-style-type: none;
+}
+#top-menu li {
+  width:10%;
+  float:left;
+  padding:0;
+  margin:0;
+  text-align:center;
+}
+
+#top-menu li a {
+  width:auto;
+  color:#fff;
+  font-size:12px;
+  font-weight:bold;
+  padding:10px 0;
+  text-decoration:none;
+  display:block;
+  background:#666;
+}
+#top-menu li a:hover {
+  background:#555;
+}
